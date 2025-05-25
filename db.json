@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "iPhone",
+      "category": "Electronics",
+      "price": 999
+    },
+    {
+      "id": "2",
+      "name": "Sneakers",
+      "category": "Fashion",
+      "price": 120,
+      "ratings": []
+    },
+    {
+      "id": "1124",
+      "name": "ghita item",
+      "category": "shampoos",
+      "price": 78880,
+      "ratings": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "a87a",
+      "name": "dhdhd",
+      "category": "ddd",
+      "price": 1500,
+      "ratings": [
+        1
+      ],
+      "comments": [
+        {
+          "author": "mouad.HAIKAL@um6p.ma",
+          "text": "hey"
+        },
+        {
+          "author": "mouad.HAIKAL@um6p.ma",
+          "text": "i think this is a very good item"
+        }
+      ]
+    },
+    {
+      "id": "9010",
+      "name": "jjj",
+      "category": "do you love me",
+      "price": 788,
+      "addedBy": "ghitabellamine66@gmail.com"
+    }
+  ]
+}
